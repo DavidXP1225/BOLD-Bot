@@ -1,8 +1,8 @@
-# BOLD BOT ☑️
+# Boo BOT ☑️
 
-BOLD is a bot with top features for example: moderation, fun, economy, covid-19 tracking, customizable prefix, and   more!
+Boo a legjobb képességekkel rendelkező bot pl.: moderálció, szórakoztatás, pénz, egyedi prefix, zene és sok más!
 
-Commands:
+Parancsok:
 ##### PREFIX:
 prefix, setprefix {newprefix/reset}
 ##### SETTINGS:
@@ -30,4 +30,6 @@ setticket {ticket catelogy}, new, close
 ##### AUTO ROLE:
 setautorole {role ID}, resetautorole
   
-| [INVITE](https://discord.com/api/oauth2/authorize?client_id=826490239161729024&permissions=8&scope=bot) | [WEB](https://boldbot.xyz) |
+| [MEGHÍVÁS](https://discord.com/api/oauth2/authorize?client_id=871496507654832209&permissions=8&scope=bot%20applications.commands) | [WEBOLDAL](https://boldbot.xyz) |
+
+## © Boo DEV. 2021 Minden jog fenntartva!
